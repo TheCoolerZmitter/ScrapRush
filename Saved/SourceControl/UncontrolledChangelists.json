@@ -99,6 +99,8 @@
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/Enemies/AI/Enums/E_AIState.uasset",
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/Actors/Player/BP_Player.uasset",
+				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/Enemies/BP_Enemy_Melee.uasset",
+				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/Enemies/BP_Enemy_Hider.uasset",
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/D4/70AECLCFSZ6AUJ68G72GCT.uasset",
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/2P/DFCASDS0RQGX78244GETAA.uasset",
 				"C:/Users/Michael/Documents/Unreal Projects/IMM-Thesis/Content/Enemies/BP_Enemy_Melee_Agro.uasset",
