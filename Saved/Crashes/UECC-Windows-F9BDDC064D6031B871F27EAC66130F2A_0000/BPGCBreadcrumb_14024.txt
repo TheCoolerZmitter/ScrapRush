@@ -1,2 +1,0 @@
-/Game/Characters/Player/Inventory/WB_DragAndDrop.Default__WB_DragAndDrop_C
-/Game/Characters/Player/Inventory/WB_DragAndDrop.WB_DragAndDrop_C
