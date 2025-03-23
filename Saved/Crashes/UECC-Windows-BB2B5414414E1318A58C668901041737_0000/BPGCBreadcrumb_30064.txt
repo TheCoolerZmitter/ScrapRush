@@ -1,0 +1,2 @@
+/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_BubblePickup_C_UAID_3814287D6F91635702_1906947796
+/Game/Weapons/Bullets/Pickups/BP_BulletPickup.BP_BulletPickup_C
