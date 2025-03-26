@@ -1,2 +1,0 @@
-/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_BlazePickup_C_UAID_3814287D6F91AD5702_1782447819
-/Game/Weapons/Bullets/Pickups/BP_BulletPickup.BP_BulletPickup_C

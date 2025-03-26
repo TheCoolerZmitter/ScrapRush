@@ -1,5 +1,0 @@
-Breadcrumbs 'RenderingThread'
-Context 1/2
-	00 Scene
-	01 BuildHZB(ViewId=0)
-	02 BuildHZB

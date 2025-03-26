@@ -1,2 +1,0 @@
-/Game/Weapons/Bullets/Pickups/BP_BulletPickup.Default__BP_BulletPickup_C
-/Game/Weapons/Bullets/Pickups/BP_BulletPickup.BP_BulletPickup_C

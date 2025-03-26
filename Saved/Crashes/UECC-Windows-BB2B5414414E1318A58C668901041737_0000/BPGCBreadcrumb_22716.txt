@@ -1,2 +1,0 @@
-/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_StasisPickup_C_UAID_3814287D6F91AD5702_1774669817
-/Game/Weapons/Bullets/Pickups/BP_BulletPickup.BP_BulletPickup_C
