@@ -1,1 +1,23 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
 Saved/
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+.vscode/
+
+# Build files
+*.log
+*.obj
+*.pdb
+*.ipch
+*.aps
+*.ncb
+*.user
+*.db
+*.opensdf
